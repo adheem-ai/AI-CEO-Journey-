@@ -39,7 +39,7 @@ Our Layer 3 (The Product):
 - Adaptive learning paths
 - English ↔ Hausa ↔ Pidgin switching
 
-Our Layer 4 (Risk Management):**
+Our Layer 4 (Risk Management):
 - Monitor: Wrong answers on past questions
 - Monitor: Voice API failures
 - Monitor: Student frustration signals
